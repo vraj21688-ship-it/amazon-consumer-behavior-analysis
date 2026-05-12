@@ -158,14 +158,35 @@ amazon-consumer-behavior-analysis/
 ### Customer Gender Analysis
 ![Gender Analysis](screenshots/gender-analysis.png)
 
+---
+
 ### Customer Age Distribution
 ![Age Distribution](screenshots/customer-age-distribution.png)
 
-### Recommendation vs Shopping Satisfaction
+---
+
+### Purchase Category Distribution
+![Purchase Distribution](screenshots/purchase-category-distribution.png)
+
+---
+
+### Recommendation vs Shopping Satisfaction Heatmap
 ![Heatmap](screenshots/recommendation-shopping-heatmap.png)
+
+---
+
+### Recommendation vs Review Helpfulness
+![Recommendation Heatmap](screenshots/review-recommendation-heatmap.png)
+
+---
 
 ### Shopping Rating Correlation
 ![Correlation](screenshots/shopping-rating-correlation.png)
+
+---
+
+### Shopping Satisfaction Distribution
+![Satisfaction Distribution](screenshots/shopping-satisfaction-distribution.png)
 ---
 
 ## Skills Demonstrated
